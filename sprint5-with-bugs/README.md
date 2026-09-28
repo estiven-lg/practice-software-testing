@@ -11,8 +11,7 @@ We also defined user stories that we can use for test planning and test design f
   - Training (3h version)
     - TBD
   - Training (4h version)
-    - 1.00pm (OK)
-      - 15min - Intro
+    - 1.00pm (OK)sfdsdfdsfdsfds
       - 10min - WarmUp / Discussion Feature List
       - 30min - *** Lesson 1 - What is Agile Testing?
     - 2.00pm 
